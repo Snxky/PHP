@@ -1,0 +1,17 @@
+.main{
+    width: 100px;
+    align-content: center;
+}
+
+.logged{
+    background-color: green;
+    padding: 100px;
+    margin: 100px;
+    border: 10px black;
+}
+
+.not-logged{
+    background-color: red;
+    padding: 100px;
+    margin: 100px;
+}
